@@ -1,7 +1,4 @@
 # slides
-
-# Slides:
-- might be used for future presentation purposes:
-- It might also not be used
+- Might be used for future presentation purposes
 - The use might vary
-- It will somehow encompass my extensive interests (or my poor or extensive understanding of them)
+- It will somehow encompass my extensive interests (or rather my understanding of them)
